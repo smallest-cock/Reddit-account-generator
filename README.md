@@ -1,5 +1,9 @@
 # Reddit-account-generator
-Automates the process of signing up for a new reddit account, and stores the new account credentials in a .json file. Also joins a random sub with the new account.
+Automates the process of signing up for a new reddit account
+
+# Features
+- Stores new account credentials in a .json file
+- Joins a random sub with the new account
 
 # How to use:
   1. Install requirements with `pip install -r requirements.txt`
