@@ -1,5 +1,5 @@
 # Reddit-account-generator
-Automates the process of signing up for a reddit account
+Automates the process of signing up for a reddit account. Also joins a random sub with the new account.
 
 # How to use:
   1. Install requirements with `pip install -r requirements.txt`
