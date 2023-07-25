@@ -1,0 +1,8 @@
+{
+    "workers": {
+        "worker1username": {
+            "password": "worker1password",
+            "start_coords": [0, 0]
+        }
+    }
+}
