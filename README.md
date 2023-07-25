@@ -9,4 +9,4 @@ Automates the process of signing up for a new reddit account. Also joins a rando
   4. Reddit account info will be stored in `accounts.json` upon completion
 
 # Notes
-Reddit has a registration cooldown of 10 min per account per IP... so use a VPN to make accounts faster, or just wait 10 mins between runs
+Reddit has a registration cooldown of 10 min per account per IP... so wait at least 10 mins between runs, or use a VPN to make accounts faster.
