@@ -7,3 +7,6 @@ Automates the process of signing up for a reddit account. Also joins a random su
   3. Run `python account_maker.py`
      - Sometimes the captcha fails, so you may need to wait for it to repeat the process a couple times before it suceeds
   4. Reddit account info will be stored in `accounts.json` upon completion
+
+# Notes
+Reddit has a registration cooldown of 10 min per account per IP... so use a VPN to make accounts faster, or just wait 10 mins between runs
